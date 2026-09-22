@@ -1,15 +1,11 @@
-5. Håndtering av tidspress og "planleggingsfellen": Råd til prosjektlederen om
-hvordan man kan motvirke det sterke handlingspresset i tidlig fase og balansere
-behovet for en klar plan med fleksibilitet.
-
-Vi anbefaler at du, Erling, begynner å planlegge første måned grundig. Så lar du gjenværende måneder kun ha oversiktsplaner hvor du lar være å gå inn i detaljer. Gjerne bruk tidslinjer i form av faser, da er det ikke eksakte datoer som kan stresse de individuelle arbeiderne. Dette gjør at du ikke låser deg og arbeidsgruppen til noe, som igjen gjør deg fleksibel hvis noe skulle oppstå. Uforutsette ting kan oppstå, så da er det greit å ha litt slingningsrom å puste på og manøvrere seg rundt. Dette kan også bidra til at arbeiderne på gulvet ikke føler noe ekstravagant tidspress som igjen kan øke effektiviteten. Et mannskap under press leverer ikke nødvendigvis bra resultater selv om de leverer innen gitte frister.
-
-I starten av prosjektet er det viktig å motstå handlingspresset, eller produksjonspresset. Ikke begynn med umiddelbar tung produksjon. I starten burde målet være å lage effektive systemer og relasjoner så produksjonen blir effektiv senere. Det er lurt at du Erling fremmer trygghet så arbeiderne ikke er redde for å gjøre feil, eller i verste fall skjule disse feilene. Som leder burde du gjøre så teamet preges av respekt og gjensidig tillit. Det å tørre å gi tilbakemeldinger er viktig. Riktige og gode tilbakemeldinger kan gjøres så man får endret opp i usette feil tidligere, som igjen øker effektiviteten. Du vil fremme et bra arbeidsmiljø som igjen bidrar til et bra produksjonsmiljø. Det er i et bra produksjonsmiljø man er effektiv.
- 
-Det vil også være lurt av deg å sette søkelys på hvordan dere skal gjennomføre prosjektet. Tenk gjerne på ulike prosedyrer, hvordan skal beslutninger tas? Hvordan skal arbeidsfordelingen være? Hvordan skal dere gi dere ut informasjon? Dette er viktige ting dere burde ha på plass før dere begynner med full produksjon. En felles forståelse av disse tingene kan redusere konflikter og gjøre at dere har mer tid under selve produksjonen til å produsere. Det kan også bidra til at dere står stødigere i mot uforutsette hendelser.
-
-
-
-
 # Gruppeinlevering 1 IS 118
 # Av Daniel Normann, Oliver Andersen, Sondre Eriksen, Eirik Fidjeland, Martin Hauglid og Robin Ulekleiv.
+
+4. Proaktive mekanismer for konflikthåndtering: Forslag til konkrete ordninger og
+prosedyrer for å identifisere, drøfte og avgjøre uenigheter tidlig i prosjektet, for å
+unngå eskalering.
+For å drøfte, forhindre og identifisere uenigheter tidlig burde Erling bruke noen av prosedyrene og ordningene som blir nevnt nedenfor. For å identifisere uenigheter tidlig burde det være faste statusmøter som har gjennomgang på hvordan man håndterer risiko og avvik. Det skal være tydelige kontaktpunkter, så de forskjellige partene vet hvor og hvem de skal henvende seg til om det er uenigheter. 
+
+Det burde være en dialog mellom det laveste nivået for å få muligheten til å løse konflikten, hvor det også er en tidsgrense på hvor lenge konflikten kan vare. Konflikten skal ha en tidsgrense på 14 dager før en beslutning skal bestemmes fra dagen konflikten oppstod. Det skal være møter på 45 minutter hvor det er krav om dokumentasjon av problemstillingen og løsningsforslag for at det skal diskuteres på en effektiv måte. Hvis konflikten ikke kan løses innen tiden, brukes eskaleringsmodell hvor Erlend har beslutningsmyndighet som prosjektleder. 
+
+For å unngå eskalering skal det være tydelig hva slags ansvar de forskjellige medlemmene har og forventningene som stilles til dem og rollene de er i. Det skal være åpen kommunikasjon hvor alle kan ta kontakt og få svar av de andre i gruppen. Dette kan for eksempel være Teams hvor gruppemedlemmene har mulighet til å sende meldinger til enten en eller flere av medlemmene. Det er viktig at utfordringer blir varslet tidlig slik at medlemmene er klare over at en uenighet har oppstått og kan jobbe sammen for å løse utfordringen. Dette kan gjøres som en fast statusrunde i ukentlige møter hvor hver deltaker gir en kort status og melder fra om risikoer, forsinkelser eller avhengigheter som kan forsinke prosjektet. Om det haster og ikke blir gjort i møter skal dette gjøres i Teams hvor medlemmet med problemet varsler prosjektlederen. Det skal være fokus på samarbeid og felles mål i gruppen, dette skal fullføres ved å kommunisere tydelig hva som er prosjektets felles mål og forventninger fra oppstart, legge til rette for at alle stemmer blir hørt uavhengig av bakgrunn og rolle. Når dette er gjort skaper Erlend en samarbeidskultur der mangfold i kompetanse og erfaring blir en styrke, og ikke en grunn for konflikt.
